@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mahin90
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... programing 
+- 🌱 I’m currently learning ... Education 
+
+- 📫 How to reach me ... md2750301@gmail.com
 
 <!---
 Mahin90/Mahin90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ ________________________________________________________________________________
 I'm a student in class 8 🙂 😜 
 _______________________________________________________________________________________________________________________
 
-PLEASE FOLlO ME 
+PLEASE FOLlO ME ❤️💖
 _______________________________________________________________________________________________________________________
 
