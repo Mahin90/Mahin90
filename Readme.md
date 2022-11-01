@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahin90&label=Profile%20views&color=0e75b6&style=flat" alt="mahin90" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niki404-Cyber&label=Profile%20views&color=0e75b6&style=flat" alt="Niki404-Cyber" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahin90" alt="mahin90" /></a> </p>
 
